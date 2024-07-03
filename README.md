@@ -1,0 +1,2 @@
+# aw-resolusi
+latihan 
