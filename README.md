@@ -1,2 +1,2 @@
 # aw-resolusi
-latihan 
+latihan pertama
